@@ -1,6 +1,6 @@
 # Pi Models
 
-管理 [Pi](https://github.com/earendil-works/pi) 的自定义模型配置（`models.json`）的 OpenCode Skill。
+管理 [Pi](https://github.com/earendil-works/pi) 的自定义模型配置（`models.json`）的 Skill。
 
 ## 安装
 
