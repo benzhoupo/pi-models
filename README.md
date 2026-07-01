@@ -7,7 +7,7 @@
 将本仓库克隆到你使用的 AI 编码工具的 skills 目录，例如：
 
 ```
-git clone https://github.com/benzhoupo/pi-models.git ~/.config/opencode/skills/pi-models
+git clone https://github.com/benzhoupo/pi-models.git
 ```
 
 具体路径取决于所用工具，请参考对应工具的 skills 文档。
