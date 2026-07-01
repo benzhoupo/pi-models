@@ -7,7 +7,7 @@
 将本仓库克隆到 OpenCode 的 skills 目录：
 
 ```
-git clone <repo-url> ~/.config/opencode/skills/pi-models
+git clone https://github.com/benzhoupo/pi-models.git ~/.config/opencode/skills/pi-models
 ```
 
 或直接复制整个目录到 `~/.config/opencode/skills/pi-models/`。
