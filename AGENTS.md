@@ -2,7 +2,7 @@
 
 ## 仓库性质
 
-这是一个 **OpenCode Skill 仓库**，包含一个 skill 定义文件（`SKILL.md`）和若干参考文档（`references/`）。不是代码项目，没有构建/测试/CI。
+这是一个 **AI Skill 仓库**，包含一个 skill 定义文件（`SKILL.md`）和若干参考文档（`references/`）。不是代码项目，没有构建/测试/CI。
 
 ## 文件职责
 

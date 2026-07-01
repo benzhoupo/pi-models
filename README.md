@@ -1,16 +1,16 @@
 # Pi Models
 
-管理 [Pi](https://github.com/earendil-works/pi) 的自定义模型配置（`models.json`）的 Skill。
+管理 [Pi](https://github.com/earendil-works/pi) 的自定义模型配置（`models.json`）的 AI Skill。
 
 ## 安装
 
-将本仓库克隆到 OpenCode 的 skills 目录：
+将本仓库克隆到你使用的 AI 编码工具的 skills 目录，例如：
 
 ```
 git clone https://github.com/benzhoupo/pi-models.git ~/.config/opencode/skills/pi-models
 ```
 
-或直接复制整个目录到 `~/.config/opencode/skills/pi-models/`。
+具体路径取决于所用工具，请参考对应工具的 skills 文档。
 
 ## 功能
 
@@ -23,7 +23,7 @@ git clone https://github.com/benzhoupo/pi-models.git ~/.config/opencode/skills/p
 
 ## 使用示例
 
-在 OpenCode 中使用自然语言操作：
+在 AI 编码工具中使用自然语言操作：
 
 | 你说 | 效果 |
 |------|------|
